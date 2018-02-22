@@ -57,7 +57,7 @@ if [ -d "$bdir"  ]; then
 
 		fi
 
-#done
+done
 
 				echo "hmmm..."
 
